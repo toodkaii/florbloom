@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "386950724829",
+    "firebase_url": "https://florbloom-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "florbloom-app",
+    "storage_bucket": "florbloom-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386950724829:android:861fef0c41880e6c25af34",
+        "android_client_info": {
+          "package_name": "com.example.florbloom_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2RUejNaa5nVEGEkVIDhLkR7Y-pp8qJiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386950724829:android:4d82fd1f110118cf25af34",
+        "android_client_info": {
+          "package_name": "com.example.flutter_florbloomapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2RUejNaa5nVEGEkVIDhLkR7Y-pp8qJiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
